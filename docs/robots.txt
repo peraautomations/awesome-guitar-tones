@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://peraautomations.github.io/awesome-guitar-tones/sitemap.xml
