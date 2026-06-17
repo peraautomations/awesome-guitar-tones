@@ -6,6 +6,14 @@ A curated, community-researched reference of the original guitar tones behind fa
 
 **[▶ Open the free web app](https://guitartoneadapt.com/app/)** · **[Browse all 495 tones](https://guitartoneadapt.com/tones/)** · **[By gear (amps/pedals/guitars)](https://guitartoneadapt.com/gear/)**
 
+## Free practice tools (no sign-up)
+
+In-browser tools built alongside this reference — free, no account, nothing to install:
+
+- 🥁 **[Online Metronome](https://guitartoneadapt.com/tools/metronome/)** — accurate Web-Audio click with tap tempo, time signatures (2/4 · 3/4 · 4/4 · 6/8) and a downbeat accent. Leave the tab open while you practice.
+- 🎚️ **[Chord Transposer & Capo Calculator](https://guitartoneadapt.com/tools/transpose/)** — paste any progression, shift it to a new key, or find the capo position that turns barre chords into easy open shapes. [Embeddable widget](https://guitartoneadapt.com/tools/transpose/embed/) for your own site.
+- 🎼 **[Song chords](https://guitartoneadapt.com/chords/)** — key, capo and the main progression for famous songs, with [chord diagrams](https://guitartoneadapt.com/chords/library/).
+
 ## Contents
 - [Rock](#rock) (248)
 - [Metal](#metal) (161)
