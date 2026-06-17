@@ -231,6 +231,13 @@ A curated, community-researched reference of the original guitar tones behind fa
 
 See [TONES.md](TONES.md) for all 495 entries, or the live searchable catalog at [guitartoneadapt.com/tones](https://guitartoneadapt.com/tones/).
 
+## Guitar chords
+
+Chords get you playing the song; tone makes it sound like the record. Free reference companions:
+
+- **[Chord library](https://guitartoneadapt.com/chords/library/)** — diagrams, finger positions and the actual notes inside every common shape. Start with the eight that unlock most songs: [G](https://guitartoneadapt.com/chords/library/g-major-chord/) · [C](https://guitartoneadapt.com/chords/library/c-major-chord/) · [D](https://guitartoneadapt.com/chords/library/d-major-chord/) · [E](https://guitartoneadapt.com/chords/library/e-major-chord/) · [A](https://guitartoneadapt.com/chords/library/a-major-chord/) · [Em](https://guitartoneadapt.com/chords/library/e-minor-chord/) · [Am](https://guitartoneadapt.com/chords/library/a-minor-chord/) · [Dm](https://guitartoneadapt.com/chords/library/d-minor-chord/). The wall everyone hits: the [F barre chord](https://guitartoneadapt.com/chords/library/f-chord/).
+- **[Song chords](https://guitartoneadapt.com/chords/)** — full progressions (key, capo, tuning) for famous songs: [Knockin' on Heaven's Door](https://guitartoneadapt.com/chords/knockin-on-heaven-s-door--bob-dylan--riff--clean--guitar/), [Let It Be](https://guitartoneadapt.com/chords/let-it-be--the-beatles--solo--distorted--guitar/), [With or Without You](https://guitartoneadapt.com/chords/with-or-without-you--u2--riff--clean--guitar/) and more.
+
 ## About
 
 [ToneAdapt](https://guitartoneadapt.com) is a free, no-signup web app that adapts any song's original guitar tone to the exact guitar, amp and pedals you own. Settings are community-researched estimates.
