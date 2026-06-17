@@ -1,8 +1,8 @@
 # Awesome Guitar Tones 🎸
 
-A curated, community-researched reference of the original guitar tones behind famous songs — the actual guitar, amp, pedals and knob settings used on the record. Every entry links to a free breakdown you can **adapt to your own rig** with [ToneAdapt](https://guitartoneadapt.com/app/).
+A curated, community-researched reference of the original guitar tones behind famous songs — the actual guitar, amp, pedals and knob settings used on the record. Every entry links to a free breakdown you can **adapt to your own rig** with [GuitarToneAdapt](https://guitartoneadapt.com/app/).
 
-> Generic "set the gain to 7" advice assumes gear you don't own. The settings here are starting points; [ToneAdapt](https://guitartoneadapt.com) re-dials them for your specific guitar, amp and pickups (single-coil vs humbucker, etc.) so the target tone is actually reachable.
+> Generic "set the gain to 7" advice assumes gear you don't own. The settings here are starting points; [GuitarToneAdapt](https://guitartoneadapt.com) re-dials them for your specific guitar, amp and pickups (single-coil vs humbucker, etc.) so the target tone is actually reachable.
 
 **[▶ Open the free web app](https://guitartoneadapt.com/app/)** · **[Browse all 495 tones](https://guitartoneadapt.com/tones/)** · **[By gear (amps/pedals/guitars)](https://guitartoneadapt.com/gear/)**
 
@@ -279,7 +279,7 @@ Each page shows the full progression, key, capo and a chord-box diagram for ever
 
 ## About
 
-[ToneAdapt](https://guitartoneadapt.com) is a free, no-signup web app that adapts any song's original guitar tone to the exact guitar, amp and pedals you own. Settings are community-researched estimates.
+[GuitarToneAdapt](https://guitartoneadapt.com) is a free, no-signup web app that adapts any song's original guitar tone to the exact guitar, amp and pedals you own. Settings are community-researched estimates.
 
 ## License
 
