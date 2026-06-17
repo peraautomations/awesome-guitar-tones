@@ -10,6 +10,7 @@ A curated, community-researched reference of the original guitar tones behind fa
 
 In-browser tools built alongside this reference — free, no account, nothing to install:
 
+- 🎤 **[Online Guitar Tuner](https://guitartoneadapt.com/tools/tuner/)** — mic-based pitch detection with cents readout and a moving needle. Standard, Drop D, half-step down, Drop C, Open G, DADGAD and more. Tap a string to hear its reference pitch.
 - 🥁 **[Online Metronome](https://guitartoneadapt.com/tools/metronome/)** — accurate Web-Audio click with tap tempo, time signatures (2/4 · 3/4 · 4/4 · 6/8) and a downbeat accent. Leave the tab open while you practice.
 - 🎚️ **[Chord Transposer & Capo Calculator](https://guitartoneadapt.com/tools/transpose/)** — paste any progression, shift it to a new key, or find the capo position that turns barre chords into easy open shapes. [Embeddable widget](https://guitartoneadapt.com/tools/transpose/embed/) for your own site.
 - 🎼 **[Song chords](https://guitartoneadapt.com/chords/)** — key, capo and the main progression for famous songs, with [chord diagrams](https://guitartoneadapt.com/chords/library/).
