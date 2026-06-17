@@ -238,6 +238,23 @@ Chords get you playing the song; tone makes it sound like the record. Free refer
 - **[Chord library](https://guitartoneadapt.com/chords/library/)** — diagrams, finger positions and the actual notes inside every common shape. Start with the eight that unlock most songs: [G](https://guitartoneadapt.com/chords/library/g-major-chord/) · [C](https://guitartoneadapt.com/chords/library/c-major-chord/) · [D](https://guitartoneadapt.com/chords/library/d-major-chord/) · [E](https://guitartoneadapt.com/chords/library/e-major-chord/) · [A](https://guitartoneadapt.com/chords/library/a-major-chord/) · [Em](https://guitartoneadapt.com/chords/library/e-minor-chord/) · [Am](https://guitartoneadapt.com/chords/library/a-minor-chord/) · [Dm](https://guitartoneadapt.com/chords/library/d-minor-chord/). The wall everyone hits: the [F barre chord](https://guitartoneadapt.com/chords/library/f-chord/).
 - **[Song chords](https://guitartoneadapt.com/chords/)** — full progressions (key, capo, tuning) for famous songs: [Knockin' on Heaven's Door](https://guitartoneadapt.com/chords/knockin-on-heaven-s-door--bob-dylan--riff--clean--guitar/), [Let It Be](https://guitartoneadapt.com/chords/let-it-be--the-beatles--solo--distorted--guitar/), [With or Without You](https://guitartoneadapt.com/chords/with-or-without-you--u2--riff--clean--guitar/) and more.
 
+### Easy songs (3–4 chords) — great first songs
+
+Each page shows the full progression, key, capo and a chord-box diagram for every shape — no lyrics, just what you need to play it.
+
+| Song | Artist | Chords |
+|------|--------|--------|
+| [Wonderwall](https://guitartoneadapt.com/chords/wonderwall--oasis/) | Oasis | Em7 G Dsus4 A7sus4 (capo 2) |
+| [Hallelujah](https://guitartoneadapt.com/chords/hallelujah--leonard-cohen/) | Leonard Cohen | C Am F G |
+| [Riptide](https://guitartoneadapt.com/chords/riptide--vance-joy/) | Vance Joy | Am G C (capo 1) |
+| [Perfect](https://guitartoneadapt.com/chords/perfect--ed-sheeran/) | Ed Sheeran | G Em C D (capo 1) |
+| [Stand By Me](https://guitartoneadapt.com/chords/stand-by-me--ben-e-king/) | Ben E. King | A F#m D E |
+| [Zombie](https://guitartoneadapt.com/chords/zombie--the-cranberries/) | The Cranberries | Em C G D |
+| [Bad Moon Rising](https://guitartoneadapt.com/chords/bad-moon-rising--creedence-clearwater-revival/) | CCR | D A G |
+| [Sweet Home Alabama](https://guitartoneadapt.com/chords/sweet-home-alabama--lynyrd-skynyrd/) | Lynyrd Skynyrd | D C G |
+| [A Horse With No Name](https://guitartoneadapt.com/chords/horse-with-no-name--america/) | America | Em D6/9 (just 2 chords) |
+| [Three Little Birds](https://guitartoneadapt.com/chords/three-little-birds--bob-marley/) | Bob Marley | A D E |
+
 ## About
 
 [ToneAdapt](https://guitartoneadapt.com) is a free, no-signup web app that adapts any song's original guitar tone to the exact guitar, amp and pedals you own. Settings are community-researched estimates.
